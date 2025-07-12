@@ -1,6 +1,6 @@
 ---
 
-### 🛍️ `ecommerce-store` – Storefront README
+# 🛍️ `ecommerce-store` – Storefront README
 
 ```markdown
 # 🛍️ E-commerce Store Frontend
