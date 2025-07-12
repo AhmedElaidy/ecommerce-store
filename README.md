@@ -1,8 +1,3 @@
----
-
-# 🛍️ `ecommerce-store` – Storefront README
-
-```markdown
 # 🛍️ E-commerce Store Frontend
 
 Customer-facing frontend for browsing, filtering, and purchasing products.
